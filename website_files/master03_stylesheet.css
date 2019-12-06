@@ -1,0 +1,213 @@
+body
+	{width:534px;
+	height:333px;}
+.T
+	{text-align:right;
+	font-family:"Times New Roman";
+	font-style:italic;
+	color:black;
+	mso-color-index:1;
+	font-size:144%;
+	mso-line-spacing:"80 50 0";
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:128%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B1
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:112%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B2
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:96%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B3
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:80%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.B4
+	{text-align:left;
+	font-family:"Times New Roman";
+	color:black;
+	mso-color-index:1;
+	font-size:80%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.N
+	{text-align:left;
+	font-family:"Times New Roman";
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:48%;}
+.N1
+	{text-align:left;
+	font-family:"Times New Roman";
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:48%;}
+.N2
+	{text-align:left;
+	font-family:"Times New Roman";
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:48%;}
+.N3
+	{text-align:left;
+	font-family:"Times New Roman";
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:48%;}
+.N4
+	{text-align:left;
+	font-family:"Times New Roman";
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:48%;}
+.O
+	{text-align:left;
+	font-family:"Times New Roman";
+	layout-flow:vertical;
+	color:black;
+	mso-color-index:1;
+	font-size:96%;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.O1
+	{layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.O2
+	{layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.O3
+	{layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.O4
+	{layout-flow:vertical;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB1
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB2
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB3
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CB4
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.CT
+	{text-align:right;
+	font-style:italic;
+	color:black;
+	mso-color-index:1;
+	font-size:144%;
+	mso-line-spacing:"80 50 0";
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB1
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB2
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB3
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.HB4
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB1
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB2
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB3
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.QB4
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl1
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl2
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl3
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.Tbl4
+	{mso-char-wrap:1;
+	mso-kinsoku-overflow:1;}
+.defaultB
+	{mso-special-format:nobullet•;}
+.default
+	{text-align:left;
+	font-family:"Times New Roman";
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	text-shadow:none;
+	text-effect:none;
+	mso-fareast-hint:no;
+	layout-flow:horizontal;
+	color:black;
+	mso-color-index:1;
+	font-size:96%;
+	mso-text-raise:0%;
+	mso-line-spacing:"100 0 0";
+	mso-margin-left-alt:0;
+	mso-text-indent-alt:0;
+	mso-char-wrap:1;
+	mso-kinsoku-overflow:1;
+	direction:ltr;
+	mso-word-wrap:1;
+	mso-vertical-align-special:baseline;
+	mso-ansi-language:EN-US;}
+a:link
+	{color:#CC6600 !important;}
+a:active
+	{color:maroon !important;}
+a:visited
+	{color:#FFCC66 !important;}
