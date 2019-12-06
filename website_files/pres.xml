@@ -1,0 +1,59 @@
+<xml xmlns:v="urn:schemas-microsoft-com:vml"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:p="urn:schemas-microsoft-com:office:powerpoint">
+ <p:presentation slidesizex="6912">
+  <p:master id="3" type="main" href="master03.htm" xmlhref="master03.xml"
+   template="Group Home Page" layout="title_body"
+   slots="title,body,dateTime,footer,slideNumber">
+   <p:schemes>
+    <p:colorscheme
+     colors="#FFFFCC,#000000,#808000,#999933,#99CC00,#800000,#CC6600,#FFCC66"/>
+    <p:colorscheme
+     colors="#FFFFFF,#000000,#777777,#000000,#FFFFCC,#CC3300,#CCCC00,#B2B2B2"/>
+    <p:colorscheme
+     colors="#FFFFFF,#000000,#696969,#000000,#CBCBCB,#868686,#5F5F5F,#969696"/>
+    <p:colorscheme
+     colors="#000066,#FFFFFF,#009999,#339966,#00CC99,#0099CC,#336699,#0099CC"/>
+    <p:colorscheme
+     colors="#000000,#FFFFCC,#CC3300,#CC6600,#993300,#808000,#CC9900,#FF3300"/>
+    <p:colorscheme
+     colors="#FFFFFF,#000000,#969696,#000000,#00CC99,#3333CC,#CCCCFF,#B2B2B2"/>
+    <p:colorscheme
+     colors="#FFFFFF,#000000,#9F9F9F,#000000,#FFCC66,#0000FF,#CC00CC,#C0C0C0"/>
+   </p:schemes>
+  </p:master>
+  <p:master id="1" type="notes" href="master01.htm" layout="notes"
+   slots="header,dateTime,slideImage,body,footer,slideNumber"/>
+  <p:slide id="1" href="slide0001.htm" layout="title_only" slots="title"/>
+  <p:slide id="18" href="slide0018.htm" layout="title_only" slots="title"/>
+  <p:slide id="11" href="slide0011.htm" layout="title_only" slots="title"/>
+  <p:slide id="19" href="slide0019.htm" layout="title_only" slots="title"/>
+  <p:slide id="15" href="slide0015.htm" layout="title_only" slots="title"/>
+  <p:slide id="21" href="slide0021.htm" layout="title_only" slots="title"/>
+  <p:slide id="16" href="slide0016.htm" layout="title_only" slots="title"/>
+  <p:slide id="17" href="slide0017.htm" layout="title_only" slots="title"/>
+  <p:slide id="22" href="slide0022.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="23" href="slide0023.htm" layout="title_body" slots="title,body"/>
+  <p:slide id="24" href="slide0024.htm"/>
+  <p:slide id="25" href="slide0025.htm"/>
+  <p:viewstate type="slideView" slidehref="slide0018.htm" restoredleft="197"
+   restoredtop="766" manualadjustleft="t" manualadjusttop="t"/>
+  <p:slideshowsettings pencolor="schemeText" restarttime="300000" kiosk="t"
+   loop="t"/>
+  <p:tag name="BRANCHTO" type="string" value="264"/>
+  <p:tag name="HOTSPOTTYPE" type="string" value="DefinedInNavigator"/>
+  <p:tag name="DEFINEDINNAVIGATOR" type="string" value="True"/>
+  <p:font name="Times New Roman" charset="0" type="4"/>
+  <p:font name="Arial" charset="0" type="4" family="34"/>
+  <p:font name="Arial_Unicode_MS" charset="2" type="6" family="34"/>
+  <p:headersfooters noheader="t"/>
+  <p:headersfooters notes="t" slidenumber="t"/>
+  <p:pptdocumentsettings framecolors="WhiteTextOnBlack" hidenavigation="t"
+   hideslideanimation="t"/>
+ </p:presentation>
+ <o:shapedefaults v:ext="edit" spidmax="72719">
+  <v:stroke startarrowwidth="narrow" startarrowlength="short" endarrowwidth="narrow"
+   endarrowlength="short" color2="none [0]" weight="1pt" endcap="square"/>
+  <o:colormru v:ext="edit" colors="#f90,#0c9,#cf3,#9c0,#f30,#4d4d4d,#ffc,#c00"/>
+  <o:colormenu v:ext="edit" fillcolor="none" strokecolor="none"/>
+ </o:shapedefaults></xml>
